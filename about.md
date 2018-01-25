@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mesut GÖLCÜK
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Welcome, My name is Mesut. I am a software engineer from Istanbul
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mesutgolcuk@gmail.com](mailto:mesutgolcuk@gmail.com)
