@@ -100,6 +100,7 @@ Sağ tarafta ise sol tarafta karşılık gelen işlemlerin doğrulamaları yapı
 V-Model de predictive bir model.
 
 ++ Muhtemel sorunların ve bulguların erken tespiti
+
 -- Gereksinim aşamasında daha fazla ekstra çalışma gerekiyor.
 
 Gereksinimlerde belirsizlik olduğunda ve erken validasyon önemli olduğunda kullanılabilecek bir model
@@ -119,6 +120,7 @@ Sashimi modelin ana fikri farklı süreçlerin birbiriyle iç içe geçmesine iz
 Sashimi modelde gereksinimler belirlenirken tasarım ilerliyor. Bu tasarımlarda bir şeyler öğrenilir ve gereksinimlerin güncellenmesi gerekebilir. Bu adaptive'liği arttırsa da Sashimi model predictive modele daha yakın.
 
 ++ Geliştirme süresini kısaltıyor
+
 ++ Bekleme olmaksızın çalışma imkanı
 
 -- Önceki aşama tam olarak bitmediğinden diğer aşamalara geçildiği için tekrar iş çok fazla olabilir.
