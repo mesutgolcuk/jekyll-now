@@ -37,4 +37,6 @@ Manjaro'yu yüklediğimizde tam sürüm bir işletim sistemiyle karşılaşıyor
 
 Kısaca artık Windows kullanmak istemiyor, yeni bir şeylere her zaman açıksınız, şu Linux'u hep görmek istemiştim diyip sorun yaşamak da istemiyorsanız Manjaro bence şu an seçilebilecek en iyi Linux dağıtımlarından birisi. Linux'ten gözünüz korkuyorsa bile  sorunsuzca kurup kullanabilirsiniz. Daha uzmanlar ise arch linux'un özelleştirilebilirliğinin avantajını Manjaro'da da kullanabilirler. Linux konusunda daha bilgili olmak istiyorsanız da benim de derslerine devam ettiğim [bu şirin siteyi](https://linuxjourney.com) kullanabilirsiniz. 
 
+Gelecekten gelen düzenleme: Yazar bu yazıdan 2 ay sonra kameradaki driver sıkıntıları nedeniyle Windows 10'a geri döndü.
+
 So Say We All!
