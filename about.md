@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Currently, I'm a junior full-stack web developer at [Garanti Technology](http://www.garantiteknoloji.com.tr) focusing on Angular and Java applications.
+Currently, I'm a full-stack web developer at [Garanti BBVA Technology](https://www.garantiteknoloji.com.tr) focusing on Angular and Java applications.
 
 
 ### Contact me
