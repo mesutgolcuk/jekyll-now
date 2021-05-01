@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About Me
+title: Hakkımda
 permalink: /about/
 ---
 
+Profesyonel anlamdaki gelişimime de büyük katkı sağlamış olan Cybersoft, BiTaksi ve Digiturk firmalarının da uzun dönemli stajyerlik katkılarıyla 2017 yılında Yıldız Teknik Üniversitesi'nden mezun oldum. Ardından Garanti BBVA Teknoloji'de üç buçuk yıl boyunca parçası olmaktan büyük keyif aldığım internet ve mobil uygulamaları ekibinde bir çok farklı dil ve teknolojiye dokunmuş olsam da ağırlıklı olarak Java ve Angular uygulamaları odaklı web teknolojileri üzerinde çalıştım. 2021 yılından itibaren de Pointr'da lead software engineer olarak javascript teknolojileri üzerine yoğunlaşmış olarak kariyerimi sürdürüyorum.
 
-Currently, I'm a full-stack web developer at [Garanti BBVA Technology](https://www.garantiteknoloji.com.tr) focusing on Angular and Java applications.
-
-
-### Contact me
+### Bana Ulaşın
 
 [mesutgolcuk@gmail.com](mailto:mesutgolcuk@gmail.com)
 
